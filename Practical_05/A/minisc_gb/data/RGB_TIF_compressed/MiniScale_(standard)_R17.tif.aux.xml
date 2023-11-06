@@ -1,0 +1,713 @@
+<PAMDataset>
+  <Metadata domain="xml:XMP" format="xml">
+    <?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+          <xmp:CreatorTool>Adobe Photoshop CS6 (Macintosh)</xmp:CreatorTool>
+          <xmp:CreateDate>2013-12-02T10:02:09Z</xmp:CreateDate>
+          <xmp:ModifyDate>2014-11-13T11:54:55Z</xmp:ModifyDate>
+          <xmp:MetadataDate>2014-11-13T11:54:55Z</xmp:MetadataDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+          <xmpTPg:NPages>1</xmpTPg:NPages>
+          <xmpTPg:HasVisibleTransparency>True</xmpTPg:HasVisibleTransparency>
+          <xmpTPg:HasVisibleOverprint>True</xmpTPg:HasVisibleOverprint>
+          <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>699.999995</stDim:w>
+            <stDim:h>1299.999891</stDim:h>
+            <stDim:unit>Millimeters</stDim:unit>
+          </xmpTPg:MaxPageSize>
+          <xmpTPg:Fonts>
+            <rdf:Bag>
+              <rdf:li rdf:parseType="Resource">
+                <stFnt:fontName>SourceSansPro-Black</stFnt:fontName>
+                <stFnt:fontFamily>Source Sans Pro</stFnt:fontFamily>
+                <stFnt:fontFace>Black</stFnt:fontFace>
+                <stFnt:fontType>Open Type</stFnt:fontType>
+                <stFnt:versionString>Version 1.036;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                <stFnt:composite>False</stFnt:composite>
+                <stFnt:fontFileName>SourceSansPro-Black.otf</stFnt:fontFileName>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stFnt:fontName>SourceSansPro-BoldIt</stFnt:fontName>
+                <stFnt:fontFamily>Source Sans Pro</stFnt:fontFamily>
+                <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                <stFnt:fontType>Open Type</stFnt:fontType>
+                <stFnt:versionString>Version 1.036;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                <stFnt:composite>False</stFnt:composite>
+                <stFnt:fontFileName>SourceSansPro-BoldIt.otf</stFnt:fontFileName>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stFnt:fontName>SourceSansPro-Bold</stFnt:fontName>
+                <stFnt:fontFamily>Source Sans Pro</stFnt:fontFamily>
+                <stFnt:fontFace>Bold</stFnt:fontFace>
+                <stFnt:fontType>Open Type</stFnt:fontType>
+                <stFnt:versionString>Version 1.036;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                <stFnt:composite>False</stFnt:composite>
+                <stFnt:fontFileName>SourceSansPro-Bold.otf</stFnt:fontFileName>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stFnt:fontName>SourceSansPro-SemiboldIt</stFnt:fontName>
+                <stFnt:fontFamily>Source Sans Pro</stFnt:fontFamily>
+                <stFnt:fontFace>Semibold Italic</stFnt:fontFace>
+                <stFnt:fontType>Open Type</stFnt:fontType>
+                <stFnt:versionString>Version 1.036;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                <stFnt:composite>False</stFnt:composite>
+                <stFnt:fontFileName>SourceSansPro-SemiboldIt.otf</stFnt:fontFileName>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stFnt:fontName>SourceSansPro-Semibold</stFnt:fontName>
+                <stFnt:fontFamily>Source Sans Pro</stFnt:fontFamily>
+                <stFnt:fontFace>Semibold</stFnt:fontFace>
+                <stFnt:fontType>Open Type</stFnt:fontType>
+                <stFnt:versionString>Version 1.036;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                <stFnt:composite>False</stFnt:composite>
+                <stFnt:fontFileName>SourceSansPro-Semibold.otf</stFnt:fontFileName>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stFnt:fontName>SourceSansPro-It</stFnt:fontName>
+                <stFnt:fontFamily>Source Sans Pro</stFnt:fontFamily>
+                <stFnt:fontFace>Italic</stFnt:fontFace>
+                <stFnt:fontType>Open Type</stFnt:fontType>
+                <stFnt:versionString>Version 1.036;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                <stFnt:composite>False</stFnt:composite>
+                <stFnt:fontFileName>SourceSansPro-It.otf</stFnt:fontFileName>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stFnt:fontName>SourceSansPro-Regular</stFnt:fontName>
+                <stFnt:fontFamily>Source Sans Pro</stFnt:fontFamily>
+                <stFnt:fontFace>Regular</stFnt:fontFace>
+                <stFnt:fontType>Open Type</stFnt:fontType>
+                <stFnt:versionString>Version 1.036;PS 1.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                <stFnt:composite>False</stFnt:composite>
+                <stFnt:fontFileName>SourceSansPro-Regular.otf</stFnt:fontFileName>
+              </rdf:li>
+            </rdf:Bag>
+          </xmpTPg:Fonts>
+          <xmpTPg:PlateNames>
+            <rdf:Seq>
+              <rdf:li>Cyan</rdf:li>
+              <rdf:li>Magenta</rdf:li>
+              <rdf:li>Yellow</rdf:li>
+              <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+          </xmpTPg:PlateNames>
+          <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+              <rdf:li rdf:parseType="Resource">
+                <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                <xmpG:groupType>0</xmpG:groupType>
+                <xmpG:Colorants>
+                  <rdf:Seq>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>Black</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>100.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>White</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - 100% Cyan</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>100.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - 100% Magenta</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>100.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - 100% Yellow</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>100.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Airports</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>80.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Railways</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>100.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Names (Black)</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>100.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Admin names</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>35.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Gridlines</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>60.000004</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Bdy (30%)</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>29.999199</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Green Text</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>100.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>100.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Motorway blue</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>80.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Primary Rd green</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>65.000397</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>65.000397</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Other A-Rd</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>60.000004</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - National Parks</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>10.000000</xmpG:magenta>
+                      <xmpG:yellow>20.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Beauty Areas</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>16.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>18.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Forest Parks</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>28.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>22.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Brown names</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>50.000797</xmpG:magenta>
+                      <xmpG:yellow>100.000000</xmpG:yellow>
+                      <xmpG:black>50.000797</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Land Tint</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>5.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Contours</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>0.000000</xmpG:cyan>
+                      <xmpG:magenta>8.000000</xmpG:magenta>
+                      <xmpG:yellow>11.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - National Bdy</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>29.999199</xmpG:cyan>
+                      <xmpG:magenta>40.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Urban Tint</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>5.000000</xmpG:cyan>
+                      <xmpG:magenta>20.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Water HO</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>40.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>MiniScale - Sea Tint</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>20.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>Sea Depths</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>10.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>Graticule grid</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>99.853500</xmpG:cyan>
+                      <xmpG:magenta>0.518800</xmpG:magenta>
+                      <xmpG:yellow>1.532000</xmpG:yellow>
+                      <xmpG:black>0.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>Ferry Blue</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>100.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>0.000000</xmpG:yellow>
+                      <xmpG:black>35.000000</xmpG:black>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                      <xmpG:swatchName>10km Tiles</xmpG:swatchName>
+                      <xmpG:type>PROCESS</xmpG:type>
+                      <xmpG:tint>100.000000</xmpG:tint>
+                      <xmpG:mode>CMYK</xmpG:mode>
+                      <xmpG:cyan>50.000000</xmpG:cyan>
+                      <xmpG:magenta>0.000000</xmpG:magenta>
+                      <xmpG:yellow>50.000000</xmpG:yellow>
+                      <xmpG:black>20.000000</xmpG:black>
+                    </rdf:li>
+                  </rdf:Seq>
+                </xmpG:Colorants>
+              </rdf:li>
+            </rdf:Seq>
+          </xmpTPg:SwatchGroups>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/">
+          <illustrator:Type>Document</illustrator:Type>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/">
+          <dc:format>image/tiff</dc:format>
+          <dc:title>
+            <rdf:Alt>
+              <rdf:li xml:lang="x-default">MiniScale (GB) Master R16-0b</rdf:li>
+            </rdf:Alt>
+          </dc:title>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+          <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+          <xmpMM:DocumentID>xmp.did:635083461F206811BE4EF3149BFD14EC</xmpMM:DocumentID>
+          <xmpMM:InstanceID>xmp.iid:0A80117407206811808390D4264C092C</xmpMM:InstanceID>
+          <xmpMM:OriginalDocumentID>uuid:ea3b3ffc-cd5e-f348-9ccd-993200648bbe</xmpMM:OriginalDocumentID>
+          <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:635083461F206811BE4EF3149BFD14EC</stRef:instanceID>
+            <stRef:documentID>xmp.did:635083461F206811BE4EF3149BFD14EC</stRef:documentID>
+            <stRef:originalDocumentID>uuid:ea3b3ffc-cd5e-f348-9ccd-993200648bbe</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+          </xmpMM:DerivedFrom>
+          <xmpMM:History>
+            <rdf:Seq>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118A6DF1F43E75B394</stEvt:instanceID>
+                <stEvt:when>2010-09-29T15:33:46+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118083EAF639EE6DFD</stEvt:instanceID>
+                <stEvt:when>2010-11-29T09:27:03Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118083912E8A0CA8E0</stEvt:instanceID>
+                <stEvt:when>2010-11-29T12:46:48Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F87F1174072068118083912E8A0CA8E0</stEvt:instanceID>
+                <stEvt:when>2010-11-29T14:21:57Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:03801174072068118083B36208B1E9B2</stEvt:instanceID>
+                <stEvt:when>2010-12-06T11:16:04Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:01801174072068118083A5BDC369A026</stEvt:instanceID>
+                <stEvt:when>2011-02-21T16:19:51Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:01801174072068118083B82EE131508A</stEvt:instanceID>
+                <stEvt:when>2011-11-17T15:07:58Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118083B809E074CE81</stEvt:instanceID>
+                <stEvt:when>2012-03-14T08:39:55Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:018011740720681188C6F665F629AA8A</stEvt:instanceID>
+                <stEvt:when>2012-05-21T08:01:40+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:3DA66DB5162068118C1492A36AC438EC</stEvt:instanceID>
+                <stEvt:when>2012-07-02T13:46:23+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F87F1174072068118C14E77E437765D6</stEvt:instanceID>
+                <stEvt:when>2012-11-05T14:35:36Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:02801174072068118A6DB681D1F78113</stEvt:instanceID>
+                <stEvt:when>2012-11-08T13:52:45Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F11740720681188C6C4EC6431F213</stEvt:instanceID>
+                <stEvt:when>2012-11-14T14:29:15Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:01801174072068118083CED78FF6C722</stEvt:instanceID>
+                <stEvt:when>2012-11-15T09:29:40Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F117407206811808392A1A7CA5512</stEvt:instanceID>
+                <stEvt:when>2012-11-15T14:52:34Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F11740720681188C6A98FE15FE95D</stEvt:instanceID>
+                <stEvt:when>2012-11-19T10:06:40Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C14814978EF251F</stEvt:instanceID>
+                <stEvt:when>2012-11-29T08:09:36Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C14B7362D164A09</stEvt:instanceID>
+                <stEvt:when>2013-01-29T08:24:42Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C14ADCEB0B691B1</stEvt:instanceID>
+                <stEvt:when>2013-01-29T14:38:54Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C14A8FADA861C49</stEvt:instanceID>
+                <stEvt:when>2013-07-08T11:03:36+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C14B2E8D51BEBB1</stEvt:instanceID>
+                <stEvt:when>2013-09-06T09:23:57+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F11740720681188C6BF48A7447CBD</stEvt:instanceID>
+                <stEvt:when>2013-09-10T14:02:24+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118A6DFC63DBB0D6F7</stEvt:instanceID>
+                <stEvt:when>2013-11-18T14:24:55Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C148EC46CA2C243</stEvt:instanceID>
+                <stEvt:when>2013-11-20T09:53:23Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:FE7F1174072068118A6DF67EEFC7436B</stEvt:instanceID>
+                <stEvt:when>2013-11-20T13:07:32Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C148E2FA34A1578</stEvt:instanceID>
+                <stEvt:when>2013-11-25T15:14:36Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F77F1174072068118C14D76E41C40F8D</stEvt:instanceID>
+                <stEvt:when>2013-11-27T09:11:21Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F87F1174072068118C14D76E41C40F8D</stEvt:instanceID>
+                <stEvt:when>2013-11-27T09:28:21Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:F17F1174072068118C14B6D0AE554AE7</stEvt:instanceID>
+                <stEvt:when>2013-12-02T10:02:19Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Illustrator CS5</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>converted</stEvt:action>
+                <stEvt:parameters>from application/pdf to application/vnd.adobe.photoshop</stEvt:parameters>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:635083461F206811BE4EF3149BFD14EC</stEvt:instanceID>
+                <stEvt:when>2013-12-02T11:38:36Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Photoshop CS5 Macintosh</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>converted</stEvt:action>
+                <stEvt:parameters>from application/pdf to image/tiff</stEvt:parameters>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>derived</stEvt:action>
+                <stEvt:parameters>converted from application/vnd.adobe.photoshop to image/tiff</stEvt:parameters>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:645083461F206811BE4EF3149BFD14EC</stEvt:instanceID>
+                <stEvt:when>2013-12-02T11:38:36Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Photoshop CS5 Macintosh</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:0A80117407206811808390D4264C092C</stEvt:instanceID>
+                <stEvt:when>2014-11-13T11:54:55Z</stEvt:when>
+                <stEvt:softwareAgent>Adobe Photoshop CS6 (Macintosh)</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+            </rdf:Seq>
+          </xmpMM:History>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+          <pdf:Producer>Adobe PDF library 9.90</pdf:Producer>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+          <photoshop:ColorMode>3</photoshop:ColorMode>
+          <photoshop:ICCProfile>Adobe RGB (1998)</photoshop:ICCProfile>
+          <photoshop:DocumentAncestors>
+            <rdf:Bag>
+              <rdf:li>xmp.did:01801174072068118083A5BDC369A026</rdf:li>
+              <rdf:li>xmp.did:01801174072068118C14D42A170FCFA6</rdf:li>
+              <rdf:li>xmp.did:06801174072068118C14B204F26CBA8A</rdf:li>
+              <rdf:li>xmp.did:F77F1174072068118083C1E1C2A9A27D</rdf:li>
+              <rdf:li>xmp.did:F77F1174072068118C14ADCEB0B691B1</rdf:li>
+              <rdf:li>xmp.did:F97F11740720681192B0CDA1B495F756</rdf:li>
+            </rdf:Bag>
+          </photoshop:DocumentAncestors>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+    <?xpacket end="w"?>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">216.15691911765</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">34.889046341392</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">231.3847605042</MDI>
+      <MDI key="STATISTICS_MINIMUM">24</MDI>
+      <MDI key="STATISTICS_STDDEV">28.320083427151</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">238.42735364146</MDI>
+      <MDI key="STATISTICS_MINIMUM">3</MDI>
+      <MDI key="STATISTICS_STDDEV">34.130600973125</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
